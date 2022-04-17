@@ -1,0 +1,10 @@
+{
+    "StationID": 1, 
+    "AntennaCnt": 4, 
+    "Longitude": 40, 
+    "Latitude": 40, 
+    "Enable": 1, 
+    "LocalIP": "169.254.233.0", 
+    "ReaderIP": "169.254.194.84", 
+    "sshPort": 2222
+}
